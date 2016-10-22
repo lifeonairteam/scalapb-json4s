@@ -1,1 +1,1 @@
-addSbtPlugin("com.trueaccord.scalapb" % "sbt-scalapb" % "0.5.39")
+addSbtPlugin("com.trueaccord.scalapb" % "sbt-scalapb" % "0.5.43")
