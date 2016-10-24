@@ -15,6 +15,8 @@ scalacOptions in ThisBuild ++= {
   }
 }
 
+publishTo := Some("Artifactory Realm" at "https://lifeonair.jfrog.io/lifeonair/ext-release-local")
+
 releaseCrossBuild := true
 
 releasePublishArtifactsAction := PgpKeys.publishSigned.value
