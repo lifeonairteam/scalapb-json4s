@@ -1,1 +1,1 @@
-version in ThisBuild := "0.1.3-lifeonair-SNAPSHOT"
+version in ThisBuild := "0.1.3-lifeonair"
